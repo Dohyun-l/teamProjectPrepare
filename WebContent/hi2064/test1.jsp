@@ -26,7 +26,7 @@ function t(){
 	if((document.tt.email.value) == ""){
 		alert("이메일을 입력해주세요!!");
 		document.tt.email.focus();
-		return false;
+		return false; 
 	}
 	if((document.tt.phone.value) == ""){
 		alert("전화번호를 입력해 주세요!!");
