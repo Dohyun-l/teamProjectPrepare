@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 ggggdeeegghgh
+=======
+수정됩니다
+>>>>>>> refs/remotes/origin/master
 </body>
 </html>

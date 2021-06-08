@@ -4,9 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>카카오톡 로그인 테스트</title>
 </head>
 <body>
+	<h1>Kakao Login Test</h1>
+	
 
 </body>
 </html>
