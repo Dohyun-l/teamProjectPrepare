@@ -69,6 +69,8 @@ function t(){
 	});
 
 </script>
+<script type="text/javascript"></script>
+
 </head>
 <body>
 	<h1>복습</h1>
@@ -77,7 +79,8 @@ function t(){
 	<input type="button" id="sh" value="로그인하기">
 	<input type="button" id="ksh" value="회원가입하기">
 	<div id="kh" style="display:none"></div>
-	<div id="ks" style="display:none" ></div>
+	<div id="ks" style="display:none"></div>
+	<div id="yy" style="display:none"></div> 
 	
 	
 </body>
