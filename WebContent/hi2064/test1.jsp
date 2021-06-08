@@ -50,7 +50,7 @@ function t(){
 			t+="</form>";
 			
 			$("#ks").html(t);
-			$("#ks").fadeToggle();
+			$("#ks").fadeToggle(); 
 		});
 	});
 </script>
